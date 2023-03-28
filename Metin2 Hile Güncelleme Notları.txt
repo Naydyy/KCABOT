@@ -1,0 +1,18 @@
+﻿28.03.2021 - 03:33
+No Ks sorunsuz çalışmakta.
+Harita çizdirme sadece siyah alan aktif.
+Target damage sorunsuz (wait damage henüz yazılmadı).
+farmbot kusursuz çalışıyor.
+save cpu sorunsuz çalışıyor.
+28.03.2021 - 16:28
+GM TP kontrol yazıldı sorunsuz çalışmakta (threadda çalışması sağlanıp aktif edicek)
+Fake metin banlama sistemi 0 dan yazıldı sorunsuz.
+Oto av tagı aktif edildi.
+One hit fonksiyonu yazıldı.
+Wallhack fonksiyonu yazıldı.
+SpecialWallhack fonksiyonu yazıldı.
+
+
+
+
+
